@@ -1,3 +1,5 @@
+This repo is synomynous with upstream but has go.mod allowing it to build.
+
 ![ls-go](./img/ls-go.png)
 
 A more colorful, user-friendly implementation of `ls` written in [Go](https://golang.org/).
